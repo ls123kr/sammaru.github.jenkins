@@ -1,3 +1,5 @@
+// modified at remote repository
+// test for conflict between remote and local..
 #include<stdio.h>
 
 int main(){
