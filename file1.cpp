@@ -1,5 +1,7 @@
 // add comments at local repo
 // maybe there is a conflict.
+// modified at remote repository
+// test for conflict between remote and local..
 #include<stdio.h>
 
 int main(){
